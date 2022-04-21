@@ -1,2 +1,2 @@
-# Ky-n1.github.io/reveria
- Your source for Reveria info.
+# reveriaexplorer.github.io/
+ Your source for Reveria Online info.
